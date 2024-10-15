@@ -24,3 +24,4 @@ public class Automobile {
     public void updateVehicleAttributes(String make, String model, String color, int year, int mileage) {
     }
 }
+

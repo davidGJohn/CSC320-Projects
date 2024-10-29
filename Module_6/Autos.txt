@@ -1,0 +1,8 @@
+=== Vehicle Inventory ===
+
+Vehicle #1
+Make: Toyota
+Model: Camry
+Color: Grey
+Year: 2007
+Mileage: 70000
